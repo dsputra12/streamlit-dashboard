@@ -8,6 +8,7 @@ from PIL import Image
 import io
 import seaborn as sns
 from babel.numbers import format_currency
+#Ini commit
 
 sns.set(style='dark')
 
